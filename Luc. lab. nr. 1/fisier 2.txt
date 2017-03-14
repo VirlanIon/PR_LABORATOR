@@ -1,1 +1,2 @@
 al doi-lea fisier(comun) in branch-ul master
+al doi-lea fisier(comun) in branch-ul dev
